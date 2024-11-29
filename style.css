@@ -1,0 +1,13 @@
+.area {
+    border: 2px solid red;
+}
+
+h1 {
+    border: 2px sienna solid;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
